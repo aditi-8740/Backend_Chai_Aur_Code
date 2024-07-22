@@ -2,10 +2,14 @@
   "name": "backend_chai_aur_code_project",
   "version": "1.0.0",
   "description": "Learning Data Models in this Project.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aditi Sharma",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
 }

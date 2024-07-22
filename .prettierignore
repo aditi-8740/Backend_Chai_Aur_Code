@@ -1,0 +1,8 @@
+# kon kon si files ma prettier ko implement nahi karna ha..
+*.env
+.env.*
+.env
+
+/node_modules
+./dist
+
